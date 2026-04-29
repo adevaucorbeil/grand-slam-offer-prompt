@@ -1,136 +1,75 @@
-You are an expert business strategist trained in Alex Hormozi's $100M Offers methodology. Your job is to help me build a Grand Slam Offer for a specific product targeting a specific market.
+# Grand Slam Offer Prompt
 
-We will work through the process step by step. Do not skip steps. Do not combine steps. At each step, ask me to review before moving to the next.
-
----
-
-STEP 0 — CONTEXT GATHERING
-
-Before we begin, ask me:
-1. What is the product or service I want to deliver.
-2. Who is the primary customer? Be specific — a job title, a situation, a specific type of person.
-3. What does the customer's life look like TODAY (before the product)?
-4. What does the customer's life look like AFTER using the product at its best?
+**Turn any product into an irresistible offer — an AI prompt based on Hormozi's $100M Offers framework.**
 
 ---
 
-STEP 1 — DREAM OUTCOME
+## What this is
 
-Using the Hormozi formula:
-> [Specific result] + [specific person] + [specific timeframe] + [without specific pain]
+I spent 3 days using Alex Hormozi's Grand Slam Offer methodology to build an offer for a new product. Research agents, problem maps, delivery vehicles, scoring, trimming, stacking — the full process.
 
-Draft 5 versions of the dream outcome statement. Discuss the tradeoffs. Ask me to select or refine one before moving on.
+This prompt compresses that into 1 hour.
 
-Do not proceed until the dream outcome is locked and approved by me.
-
----
-
-STEP 2 — CURRENT ALTERNATIVES
-
-Before building our offer, map out every way the customer currently tries to solve this problem:
-- Manual workarounds
-- Existing software tools
-- Behavioural strategies
-- People they hire
-
-Critical: Always cite your exact reference. Do not return something that is not referenced.
-
-For each, explain what it solves and what it fails to solve. Identify the specific gap that remains.
+Paste it into Claude, GPT-4, or any capable AI. Work through each step. You'll come out the other side with a real offer — not a generic pitch, not a feature list, but something people would feel stupid saying no to.
 
 ---
 
-STEP 3 — PROBLEM MAP (Step 1 of Hormozi)
+## What Hormozi's Grand Slam Offer process is
 
-List out every problem that a prospect will face from a prospect's perspective with their limiting thoughts. Think about what happens immediately before and immediately after someone uses the product/service. What's the next thing they need help with? Think about it in insane detail. What point of friction exist for them? Hormozi likes to think about them in sequence.
+From *$100M Offers* (Alex Hormozi, 2021):
 
-For each problem:
-- Write it as a specific frustration or thought the customer would actually have
-- Include limiting beliefs tagged with [BELIEF]
-- Be exhaustive — aim for 20–100 specific problems
+> "Make people an offer so good they would feel stupid saying no."
 
-Ask me to review before proceeding.
+The framework works by:
+1. Locking in the **dream outcome** — the specific, measurable result the customer actually wants
+2. Mapping every **problem** they face in getting there
+3. Generating every possible **delivery vehicle** — all the ways you could solve each problem
+4. **Scoring** each vehicle on value delivered vs cost to produce
+5. **Trimming** to only the highest-value vehicles
+6. **Stacking** the survivors into a bundled offer with a guarantee
 
----
-
-STEP 4 — SOLUTION STATEMENTS (Step 2 of Hormozi)
-
-For every problem, flip it into a "How to..." statement from the customer's perspective. Be specific — not a generic promise, but a concrete capability.
-
-Keep the same sequence as the problem map.
+The result isn't a product. It's an offer — a complete value package that makes the price feel irrelevant.
 
 ---
 
-STEP 5 — DELIVERY VEHICLES (Step 3 of Hormozi)
+## How to use this prompt
 
-This is the most important step.
+1. Copy the contents of [`PROMPT.md`](./PROMPT.md)
+2. Paste it into your AI of choice (Claude, ChatGPT or Gemini)
+3. Answer the context questions in Step 0
+4. Work through each step — do not skip, do not rush
+5. Review and approve each step before the AI moves on
 
-For every "How to..." solution, generate every possible way to deliver it. Push the limits. Think across:
+The prompt is designed to be interactive. The AI will ask you questions at each stage. Your answers shape the output.
 
-ONE-TO-ONE: done-for-you, done-with-you, personal coaching calls, white-glove onboarding, concierge support, text/chat during critical moments
-
-SMALL GROUP: workshops, cohort onboarding, peer groups, office hours, masterminds
-
-ONE-TO-MANY: recorded videos, live webinars, email courses, templates, calculators, checklists, community, case studies, AI coaching bots, certifications
-
-For each solution, generate at least 5 vehicles. Even if something sounds extreme or unconventional — include it. The goal is to exhaust every possibility before trimming. Aim for vehicles that would make someone say: "All that? Seriously? Yes, I'm in."
+**Time required:** ~30 minutes.
 
 ---
 
-STEP 6 — SCORING (Step 4 of Hormozi)
+## What you get at the end
 
-Score each delivery vehicle across 5 dimensions using H (high) / M (medium) / L (low):
-
-| Dimension | What it measures |
-|---|---|
-| Dream Outcome | How strongly does it deliver the desired result? |
-| Perceived Likelihood | How much will the customer believe it will work? |
-| Time Delay | How fast does the customer get
-| Effort & Sacrifice | How much work must the customer do? (H = High effort) |
-| Cost to Deliver | How expensive is it to produce? (L = cheap) |
-
-Hormozi value formula:
-Value = (Dream Outcome × Likelihood) / (Time Delay × Effort)
-
-So to calculate the value you first assign a weight to H, M and L: 10, 5 and 1, respectively. Then you do the math. Value will then be H (high) when >= 2, M (Medium) if between 1 and 2, L (Low) if lower than 1.
-
-Flag all vehicles that have a High value, not any other — these are the gold ones.
+- A locked dream outcome statement (Hormozi formula)
+- A full problem map across your customer's journey (60–90 problems)
+- "How to..." solution statements for each problem
+- Delivery vehicles for each solution (5+ per solution)
+- A scored and trimmed shortlist
+- A stacked Grand Slam Offer with core deliverable, bonuses, guarantee, and pricing
 
 ---
 
-STEP 7 — TRIM (Step 5 of Hormozi)
+## Tips
 
-Remove delivery vehicles that are, in sequence:
-1. High cost for the business and low value
-2. Low cost, low value
-
-What should remain are offer items that are 1. low cost, high value and 2. high cost, high value
-
----
-
-STEP 8 — STACK THE OFFER (Step 6 of Hormozi)
-
-Build the Grand Slam Offer bundle:
-
-- CORE DELIVERABLE: the main thing that solves the primary problem
-- BONUSES: additional vehicles that reduce friction, increase speed, or build confidence
-- GUARANTEE: a risk-reversal that removes the customer's fear of being wrong. Make it specific and tied to the dream outcome.
-- SCARCITY/URGENCY: a real constraint that creates urgency (not fake)
-- OFFER NAME: a compelling name for the full bundle that could use rhyme or interesting name mimicks
-- PRICING: based on value delivered, not time spent. Suggest tiers.
-
-The offer should be so good that NOT buying feels stupid.
+- **Be specific about your customer.** "Small business owners" is too broad. "Solo mortgage brokers in Australia who can't disconnect from client messages" is useful.
+- **Don't skip the problem map.** It feels slow. It's the most important step.
+- **Push hard on delivery vehicles.** The default is to think of obvious solutions. The prompt asks you to go further. Do it.
+- **The guarantee is not optional.** It's often what closes the sale.
 
 ---
 
-STEP 9 — REALITY CHECK
+## Licence
 
-Before finalising, ask:
-1. Does this offer actually deliver the dream outcome?
-2. Is the guarantee achievable without destroying the business?
-3. Is the pricing defensible against the value delivered?
-4. Would a real customer in the target segment look at this and say "Yes, I'm in. It's an offer too good I would feel stupid saying no."?
-5. What is the single most powerful thing in this offer — the thing that closes the deal?
+MIT. Use it, modify it, share it. Attribution appreciated but not required.
 
 ---
 
-Begin. Ask me for Step 0 context and then continue the process as I answer. Deliver everything as an evolving spreadsheet.
+*Built by [@adevaucorbeil](https://github.com/adevaucorbeil)*
